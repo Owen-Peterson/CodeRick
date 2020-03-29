@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CodeRick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodeRick_jar</output-path>
+    <root id="archive" name="CodeRick.jar">
+      <element id="module-output" name="CodeRick" />
+    </root>
+  </artifact>
+</component>
